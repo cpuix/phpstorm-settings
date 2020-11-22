@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Symfony Support" displayType="NONE" />
+  </component>
+</application>
