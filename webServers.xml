@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7fea508a-5105-42eb-b0a0-8423ada5505d" name="minihavale" url="http://167.71.34.242">
+        <fileTransfer rootFolder="/minihavale" host="167.71.34.242" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
