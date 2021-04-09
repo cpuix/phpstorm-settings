@@ -122,11 +122,6 @@
                       <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="SpaceRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Space Task" pluginName="Space" pluginId="com.jetbrains.space" />
-                    </value>
-                  </entry>
                   <entry key="SwaggerCodegen">
                     <value>
                       <FeaturePluginData displayName="Swagger Codegen" pluginName="OpenAPI Specifications" pluginId="com.intellij.swagger" bundled="true" />
