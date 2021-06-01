@@ -4,7 +4,7 @@
     <property name="created">2021-06-01T18:08:00</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.2.0.0</property>
-    <property name="modified">2021-06-01T18:16:44</property>
+    <property name="modified">2021-06-01T18:18:53</property>
     <property name="originalScheme">Xcode-Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -401,6 +401,7 @@
       <value>
         <option name="FOREGROUND" value="dfdfe0" />
         <option name="BACKGROUND" value="292a30" />
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -409,6 +410,13 @@
         <option name="BACKGROUND" value="545558" />
         <option name="EFFECT_COLOR" value="656669" />
         <option name="ERROR_STRIPE_COLOR" value="a8acaf" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a8c023" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="ERROR_STRIPE_COLOR" value="977ab" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
