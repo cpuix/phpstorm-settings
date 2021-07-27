@@ -8,6 +8,9 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="e81d0094-5ccd-4d0f-9eda-6e803a063fc9" name="Mpay v2 Havale" url="http://mpayv2-havale.test">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
